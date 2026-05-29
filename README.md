@@ -2,7 +2,7 @@
 
 This repository is a public placeholder for the Aroha project.
 
-👉 **Visit the live product:** https://tryaroha.com
+ **Visit here:** https://tryaroha.com
 
 ---
 
